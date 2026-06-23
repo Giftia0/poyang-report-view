@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "咨询反馈",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-notice-bar": "../../uni_modules/uni-notice-bar/components/uni-notice-bar/uni-notice-bar",
+    "uni-group": "../../uni_modules/uni-group/components/uni-group/uni-group",
+    "uni-section": "../../uni_modules/uni-section/components/uni-section/uni-section"
+  }
+}

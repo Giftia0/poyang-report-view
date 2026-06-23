@@ -1,0 +1,24 @@
+
+#container.data-v-71d9cc88 {
+		width: 100%;
+		height: 500rpx;
+		background: white !important;
+}
+.amap-cluster.data-v-71d9cc88 {
+		display: flex; 
+		justify-content: center;
+		flex-direction: column;
+		align-items: center;
+		font-size: 12px;
+}
+.showName.data-v-71d9cc88 {
+		font-size: 14px;
+}
+.showCount.data-v-71d9cc88,
+	.showName.data-v-71d9cc88 {
+		display: block;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+		overflow: hidden;
+		width: 80%;
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@vue/composition-api": "^1.7.2",
+    "echarts": "^5.5.0",
+    "moment": "^2.30.1",
+    "pinia": "^2.1.7"
+  }
+}
